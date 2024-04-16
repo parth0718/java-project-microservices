@@ -14,8 +14,8 @@ public class Product {
     private String id;
 
     private String name;
-    private String description;
-    private Double price;
+    private String description; //description
+    private Double price;  //price
     private Integer stock; // Changed from stockAvailable to stock
     private String imageId; // This will hold the filename or path to the image
 
